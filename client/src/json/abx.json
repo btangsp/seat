@@ -1,0 +1,244 @@
+{
+    "filenames": [
+        {
+            "reference": "cat_9.wav",
+            "baseline": "cat_9_baseline.wav",
+            "experimental": "cat_9_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p298_047_mic2.wav",
+            "baseline": "p298_047_mic2_baseline.wav",
+            "experimental": "p298_047_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_8.wav",
+            "baseline": "cat_8_baseline.wav",
+            "experimental": "cat_8_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p257_030_mic2.wav",
+            "baseline": "p257_030_mic2_baseline.wav",
+            "experimental": "p257_030_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_17.wav",
+            "baseline": "cat_17_baseline.wav",
+            "experimental": "cat_17_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_16.wav",
+            "baseline": "cat_16_baseline.wav",
+            "experimental": "cat_16_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_14.wav",
+            "baseline": "cat_14_baseline.wav",
+            "experimental": "cat_14_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_28.wav",
+            "baseline": "cat_28_baseline.wav",
+            "experimental": "cat_28_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_29.wav",
+            "baseline": "cat_29_baseline.wav",
+            "experimental": "cat_29_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_15.wav",
+            "baseline": "cat_15_baseline.wav",
+            "experimental": "cat_15_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_11.wav",
+            "baseline": "cat_11_baseline.wav",
+            "experimental": "cat_11_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p232_002_mic2.wav",
+            "baseline": "p232_002_mic2_baseline.wav",
+            "experimental": "p232_002_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_10.wav",
+            "baseline": "cat_10_baseline.wav",
+            "experimental": "cat_10_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_12.wav",
+            "baseline": "cat_12_baseline.wav",
+            "experimental": "cat_12_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p244_002_mic2.wav",
+            "baseline": "p244_002_mic2_baseline.wav",
+            "experimental": "p244_002_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_13.wav",
+            "baseline": "cat_13_baseline.wav",
+            "experimental": "cat_13_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_22.wav",
+            "baseline": "cat_22_baseline.wav",
+            "experimental": "cat_22_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_23.wav",
+            "baseline": "cat_23_baseline.wav",
+            "experimental": "cat_23_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_21.wav",
+            "baseline": "cat_21_baseline.wav",
+            "experimental": "cat_21_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p294_035_mic2.wav",
+            "baseline": "p294_035_mic2_baseline.wav",
+            "experimental": "p294_035_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p345_058_mic2.wav",
+            "baseline": "p345_058_mic2_baseline.wav",
+            "experimental": "p345_058_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_20.wav",
+            "baseline": "cat_20_baseline.wav",
+            "experimental": "cat_20_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_18.wav",
+            "baseline": "cat_18_baseline.wav",
+            "experimental": "cat_18_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_24.wav",
+            "baseline": "cat_24_baseline.wav",
+            "experimental": "cat_24_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_30.wav",
+            "baseline": "cat_30_baseline.wav",
+            "experimental": "cat_30_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_25.wav",
+            "baseline": "cat_25_baseline.wav",
+            "experimental": "cat_25_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_19.wav",
+            "baseline": "cat_19_baseline.wav",
+            "experimental": "cat_19_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_27.wav",
+            "baseline": "cat_27_baseline.wav",
+            "experimental": "cat_27_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p362_075_mic2.wav",
+            "baseline": "p362_075_mic2_baseline.wav",
+            "experimental": "p362_075_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_26.wav",
+            "baseline": "cat_26_baseline.wav",
+            "experimental": "cat_26_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_3.wav",
+            "baseline": "cat_3_baseline.wav",
+            "experimental": "cat_3_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_2.wav",
+            "baseline": "cat_2_baseline.wav",
+            "experimental": "cat_2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p232_001_mic2.wav",
+            "baseline": "p232_001_mic2_baseline.wav",
+            "experimental": "p232_001_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_1.wav",
+            "baseline": "cat_1_baseline.wav",
+            "experimental": "cat_1_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_5.wav",
+            "baseline": "cat_5_baseline.wav",
+            "experimental": "cat_5_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_4.wav",
+            "baseline": "cat_4_baseline.wav",
+            "experimental": "cat_4_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_6.wav",
+            "baseline": "cat_6_baseline.wav",
+            "experimental": "cat_6_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p244_115_mic2.wav",
+            "baseline": "p244_115_mic2_baseline.wav",
+            "experimental": "p244_115_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "p251_023_mic2.wav",
+            "baseline": "p251_023_mic2_baseline.wav",
+            "experimental": "p251_023_mic2_experimental.wav",
+            "times_selected": 0
+        },
+        {
+            "reference": "cat_7.wav",
+            "baseline": "cat_7_baseline.wav",
+            "experimental": "cat_7_experimental.wav",
+            "times_selected": 0
+        }
+    ]
+}

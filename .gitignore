@@ -1,0 +1,11 @@
+build/
+node_modules/
+.DS_Store
+public/.DS_Store
+public/user-studies/.DS_Store
+public/user-studies/test-abx/.DS_Store
+public/user-studies/test-abx/audio/.
+results/
+.env
+
+.vscode/
